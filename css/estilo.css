@@ -1,0 +1,59 @@
+*{
+    background-color: rgb(220, 220, 247);
+}
+
+h1{
+    font-size: 40px;
+    color: cornflowerblue;
+    text-align: center;
+}
+
+h2,h3{
+    font-size: 30px;
+    }
+/*propiedad text-indent es la sangria de la primera linea*/
+.a{ text-indent: 50px;}
+.b{text-indent: 3em;}
+.c{text-indent: 20%;}
+.d{text-indent: -50px;}
+
+/*propiedad text-align alinea el texto*/
+
+.a2{text-align: center; }
+.b2{text-align: right;}
+.c2{text-align: left;}
+.d2{text-align: justify;}
+
+/*propiedad text-decoration esta decora el texto */
+
+.a3{text-decoration: underline;}
+.b3{text-decoration: overline;}
+.c3{text-decoration: line-through;}
+.d3{text-decoration: underline line-through;}
+
+/*propiedad letter-spacing es el espacio en blanco entre las letras */
+.a4{letter-spacing: 3px;}
+.b4{letter-spacing: 10px;}
+.c4{letter-spacing: 15px;}
+
+/*propiedad word-spacing es el espacio en blanco entre las palabras*/
+.a5{word-spacing: 5px;}
+.b5{word-spacing: 20px;}
+.c5{word-spacing: 50px;}
+
+/*propiedad text-transform le da el estilo a el texto que quieras*/
+.a6{text-transform: capitalize;}
+.b6{text-transform: uppercase;}
+.c6{text-transform: lowercase;}
+
+/*propiedad line-height es la altura de la casilla remarcada por lineas */
+.a7{line-height: 50px;}
+.b7{line-height: 3em;}
+.c7{line-height: 20%;}
+
+/*propiedad vertical-align especifica la ubicacion del texto /elemento en una celda o tabla */
+.a8{vertical-align: top;}
+.b8{vertical-align: middle;}
+.c8{vertical-align: bottom;}
+
+
